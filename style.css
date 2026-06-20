@@ -69,12 +69,19 @@ li {
     justify-content: center;
 }
 
+#about,
+#discord,
+#contact {
+    padding: 48px 0;
+}
+
+
 /*
     About Section
 */
 
+
 #about {
-    padding: 48px 0;
     background-color: #f8ffdc;
 }
 
