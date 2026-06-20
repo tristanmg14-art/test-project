@@ -78,3 +78,9 @@ h2{
     text-align: center;
     margin-bottom: 24px;
 }
+
+.section__description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
