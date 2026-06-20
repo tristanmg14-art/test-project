@@ -60,3 +60,11 @@ li {
     list-style-type: none;
     padding-left: 16px;
 }
+
+.row {
+    width: 100%;
+    max-width: 1300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
