@@ -15,6 +15,15 @@ nav {
     background-color: #cafdff;
 }
 
+header {
+    background-color: #eadcff;
+    height: calc(100vh - 70px);
+    padding: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 a {
     color: #000;
     font-size: 24px;
