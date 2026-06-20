@@ -71,7 +71,8 @@ li {
 
 #about,
 #discord,
-#contact {
+#contact,
+footer {
     padding: 48px 0;
 }
 
@@ -163,4 +164,13 @@ footer {
 
 .footer__logo {
     max-width: 480px;
+    margin-bottom: 32px;
+}
+
+.footer__links {
+    margin-bottom: 32px;
+}
+
+.footer__links {
+    padding: 0 16px;
 }
